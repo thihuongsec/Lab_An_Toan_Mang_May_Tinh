@@ -42,7 +42,7 @@ Ngoài ra, có thể triển khai VPN với giao thức L2TP kết hợp IPSec
 <img width="1125" height="603" alt="image" src="https://github.com/user-attachments/assets/797f48c0-7986-467c-9fd7-f62868e987d4" />
 
 ## Kết luận
-
+Chi tiết triển khai, mô hình triển khai và các bước phân tích được trình bày chi tiết trong file tài liệu .docx đã được tải trên repo này.
 
 
 
